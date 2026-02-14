@@ -1,0 +1,9 @@
+
+{
+  "name": "أستوديو داشبورد - Studio Dashboard",
+  "description": "A sophisticated Arabic-first productivity dashboard featuring project tracking, task management, and productivity insights with a modern dark-themed aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
